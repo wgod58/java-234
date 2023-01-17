@@ -1,0 +1,10 @@
+http://www.yahoo.com/ 150 200
+https://www.yahoo.com/news/ 200 200
+https://sports.yahoo.com/ 10 200
+https://techcrunch.com/startups/ 30 200
+https://www.huffingtonpost.com/ 70 200
+https://www.huffingtonpost.co.uk/ 1000 200
+https://www.huffingtonpost.co.uk/entry/brexit-secretary?utm_hp_ref=uk-politics 500 404
+https://developer.github.com/apps/building-oauth-apps/ 40 200
+https://developer.github.com/v3/ 33 200
+https://developer.github.com:8080/v3/ 77 500
